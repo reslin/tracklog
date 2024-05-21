@@ -6,3 +6,13 @@
 - the data can be shown raw or statistically enhanced and with error correction
 - consecutive collected data can show the frequency of being in a same location
 - height and speed can be visualized
+- show historic data
+
+Driving through town work-related since 2008 I've collected some GPS data.
+I always wanted to do something with that data, e.g. show the heights on
+a false-colored map.
+
+This project is an attempt to develop some ideas.
+
+
+A License has not been decided yet.
