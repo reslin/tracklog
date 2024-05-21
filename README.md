@@ -16,3 +16,8 @@ This project is an attempt to develop some ideas.
 
 
 A License has not been decided yet.
+
+## Cloning and running
+
+Clone the project as you normally would.
+There's nothing to run at the moment.
