@@ -21,3 +21,8 @@ A License has not been decided yet.
 
 Clone the project as you normally would.
 There's nothing to run at the moment.
+
+## Contributing
+
+- starting with Python and map-like types...
+- ideas on datatypes for geo-info are welcome
